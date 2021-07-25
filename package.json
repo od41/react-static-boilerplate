@@ -1,0 +1,29 @@
+{
+  "name": "react-static-boilerplate",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^1.6.3",
+    "@emotion/react": "^11.4.0",
+    "@emotion/styled": "^11.3.0",
+    "@hookform/resolvers": "^2.6.0",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^10.4.9",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.21.1",
+    "framer-motion": "^4.1.17",
+    "next": "10.2.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-hook-form": "^7.9.0",
+    "react-icons": "^3.11.0",
+    "react-router-dom": "^5.2.0",
+    "universal-cookie": "^4.0.4",
+    "yup": "^0.32.9"
+  }
+}
